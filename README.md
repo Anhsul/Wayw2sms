@@ -1,1 +1,1 @@
-# Wayw2sms
+# Way2sms
